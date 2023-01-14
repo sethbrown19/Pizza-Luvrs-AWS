@@ -1,0 +1,3 @@
+[submodule "pizza-luvrs"]
+	path = pizza-luvrs
+	url = https://github.com/sethbrown19/Pizza-Luvrs-AWS.git
